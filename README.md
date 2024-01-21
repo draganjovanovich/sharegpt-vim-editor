@@ -1,5 +1,9 @@
 # JSONL UI ShareGPT Editor Plugin for Vim
 
+
+https://github.com/draganjovanovich/sharegpt-vim-editor/assets/13547364/4fae9c07-44ae-42e1-9dbc-591276f3d743
+
+
 ## Overview
 This Vim plugin provides a UI for editing JSONL (JSON Lines) files, specifically tailored for ShareGPT conversations. It includes features like navigation through JSONL entries, custom syntax highlighting, and in-place editing of JSONL data.
 
